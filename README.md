@@ -13,15 +13,12 @@ Aqui você encontrará:
 - `Images/`: Capturas de tela dos dashboards para pré-visualização.
 
 ## 📊 Projetos Incluídos
-1. **Análise de Vendas 2025**
+1. **Análise de Vendas de RH**
    - Descrição: Um painel para monitorar o desempenho de vendas por região, categoria de produto e período.
    - Destaques: Comparação de metas, análise sazonal e insights acionáveis.
    - ![Exemplo Dashboard](Images/vendas_2025.png)
 
-2. **Marketing Analytics**
-   - Descrição: Análise de desempenho de campanhas de marketing em diferentes canais.
-   - Destaques: Métricas como ROI, engajamento e taxas de conversão.
-   - ![Exemplo Dashboard](Images/marketing_analytics.png)
+
 
 ## 🚀 Como Usar
 1. Faça o download dos arquivos `.pbix` na pasta `Dashboards/`.
