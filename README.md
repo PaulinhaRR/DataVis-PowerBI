@@ -7,15 +7,10 @@ Aqui você encontrará:
 - **Dashboards interativos** sobre diferentes temas e conjuntos de dados.
 - Arquivos do Power BI (`.pbix`) que podem ser baixados e editados.
 
-## 📂 Estrutura do Repositório
-- `Dashboards/`: Contém os arquivos `.pbix` com os projetos criados no Power BI.
-- `Data/`: Contém datasets de exemplo usados nos projetos (em formatos como `.csv`, `.xlsx`).
-- `Images/`: Capturas de tela dos dashboards para pré-visualização.
-
 ## 📊 Projetos Incluídos
 1. **Análise de Vendas de RH**
-   - Descrição: Um painel para monitorar o desempenho de vendas por região, categoria de produto e período.
-   - Destaques: Comparação de metas, análise sazonal e insights acionáveis.
+   - Descrição: Um painel para responder algumas perguntas relacionado a administração do pessoal.
+   - Destaques: Considerar promoção, Disponibilidades para hora extra e percentual por gênero.
    - ![Exemplo Dashboard](Images/vendas_2025.png)
 
 
