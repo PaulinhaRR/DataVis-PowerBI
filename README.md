@@ -11,8 +11,13 @@ Aqui você encontrará:
 1. **Análise de Vendas de RH**
    - Descrição: Um painel para responder algumas perguntas relacionado a administração do pessoal.
    - Destaques: Considerar promoção, Disponibilidades para hora extra e percentual por gênero.
-   - ![Projeto](RH)
+   - ![RH](RH)
 
+
+2. **Análise de Logística**
+   - Descrição: KPI´s do setor de Logística no geral.
+   - Destaques: Analisar questão de entregas em atrasos.
+   - ![Lgisticia](Logistica)
 
 
 ## 🚀 Como Usar
