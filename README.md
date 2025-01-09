@@ -11,7 +11,7 @@ Aqui você encontrará:
 1. **Análise de Vendas de RH**
    - Descrição: Um painel para responder algumas perguntas relacionado a administração do pessoal.
    - Destaques: Considerar promoção, Disponibilidades para hora extra e percentual por gênero.
-   - ![Exemplo Dashboard](Images/vendas_2025.png)
+   - ![Exemplo Dashboard](RH)
 
 
 
