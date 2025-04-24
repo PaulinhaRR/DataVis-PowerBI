@@ -9,6 +9,5 @@ Este projeto básico combina visualizações do Power BI com machine learning em
 ## Objetivo
 Considerando dados históricos de clientes que realizaram compras em uma empresa, Agrupar (segmentar) clientes por similaridade de características em 3 grupos e formartar o relatório para a equipe de Marketing.
 
-## Visualização
-![Dashboard Power BI](imagens/grafico1.png)
+
 
